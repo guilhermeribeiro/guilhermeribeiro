@@ -12,9 +12,9 @@ Data scientist at Hospital Israelita Albert Einstein and PhD candidate in Comput
   Contacts
 </h2>
 
-<a href="https://www.linkedin.com/in/guilherme-a-s-ribeiro/" rel="nofollow"><img src="https://camo.githubusercontent.com/a4995f7d13968dacd8f15a1703324eda70a9f0ad6b1d16cde7693aeb6aed6643/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d72616661656c7065726f636f2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f72616661656c7065726f636f2f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-guilherme-a-s-ribeiro-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/guilherme-a-s-ribeiro/" style="max-width: 100%;">
+<!--<a href="https://www.linkedin.com/in/guilherme-a-s-ribeiro/" rel="nofollow"><img src="https://camo.githubusercontent.com/a4995f7d13968dacd8f15a1703324eda70a9f0ad6b1d16cde7693aeb6aed6643/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d72616661656c7065726f636f2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f72616661656c7065726f636f2f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-guilherme-a-s-ribeiro-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/guilherme-a-s-ribeiro/" style="max-width: 100%;">
 
-</a>
+</a>-->
 
 <!--
 **guilhermeribeiro/guilhermeribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
