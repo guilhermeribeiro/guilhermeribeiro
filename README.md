@@ -1,5 +1,5 @@
 <h2 dir="auto">
-  "Profile"
+  Profile
 </h2>
 
 <p align="justify">
